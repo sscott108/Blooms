@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 *.tif
 *.pt
+*.DS_Store
